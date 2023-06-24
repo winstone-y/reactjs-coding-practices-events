@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.event-list-item {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  max-width: 45%;
+  list-style-type: none;
+  padding-left: 0;
+}
+.image-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  text-align: left;
+}
+.event-image {
+  width: 80%;
+  margin-bottom: 8px;
+}
+.event-item-title {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.event-item-location {
+}

@@ -1,0 +1,30 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+.events-app {
+  height: 100vh;
+  display: flex;
+}
+
+.events {
+  background-color: #323f4b;
+  width: 60%;
+  padding: 25px;
+  height: 100%;
+}
+.events-title {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.active-event {
+  height: 100vh;
+}
